@@ -1,0 +1,58 @@
+{
+  "incomes": [
+    {
+      "id": "1667655697158",
+      "category_name": "Salary",
+      "type": "Income",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "Payments",
+      "is_selected": false
+    },
+    {
+      "id": "1667655737535",
+      "category_name": "Business Income",
+      "type": "Income",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "Business",
+      "is_selected": false
+    },
+    {
+      "id": "1667655747352",
+      "category_name": "Rental Income",
+      "type": "Income",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "MapsHomeWork",
+      "is_selected": false
+    },
+    {
+      "id": "1667655757793",
+      "category_name": "Passive Income",
+      "type": "Income",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "MonetizationOn",
+      "is_selected": false
+    },
+    {
+      "id": "1667655765785",
+      "category_name": "Capital Gains",
+      "type": "Income",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "DomainAdd",
+      "is_selected": false
+    },
+    {
+      "id": "1667655788464",
+      "category_name": "Dividend",
+      "type": "Income",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "RequestQuote",
+      "is_selected": false
+    }
+  ]
+}

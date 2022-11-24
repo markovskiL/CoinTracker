@@ -1,0 +1,10 @@
+/node_modules
+/build
+/.env
+/.github
+/.firebase
+/firebase.json
+/.firebaserc
+/database.rules.json
+/yarn-error.log
+

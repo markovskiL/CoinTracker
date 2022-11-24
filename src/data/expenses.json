@@ -1,0 +1,76 @@
+{
+  "expenses": [
+    {
+      "id": "1667655448276",
+      "category_name": "Rent",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "Home",
+      "is_selected": false
+    },
+    {
+      "id": "1667655453409",
+      "category_name": "Food",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "Restaurant",
+      "is_selected": false
+    },
+    {
+      "id": "1667655453312",
+      "category_name": "Car Insurance",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "NoCrash",
+      "is_selected": false
+    },
+    {
+      "id": "1667655525010",
+      "category_name": "Health Insurance",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "HealthAndSafety",
+      "is_selected": false
+    },
+    {
+      "id": "1667655543187",
+      "category_name": "Travel Expenses",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "AirportShuttle",
+      "is_selected": false
+    },
+    {
+      "id": "1667655563185",
+      "category_name": "Utility Bills",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "Bolt",
+      "is_selected": false
+    },
+    {
+      "id": "1667655588029",
+      "category_name": "Childcare",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "ChildCare",
+      "is_selected": false
+    },
+    {
+      "id": "1667655622741",
+      "category_name": "Loans",
+      "type": "Expense",
+      "expected_amount": 0,
+      "current_amount": 0,
+      "icon_name": "AccountBalance",
+      "is_selected": false
+    }
+  ]
+}

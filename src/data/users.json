@@ -1,0 +1,2251 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "",
+      "password": "",
+      "expenses": [],
+      "incomes": [],
+      "entries": []
+    },
+    {
+      "username": "leonardo.markosky@gmail.com",
+      "password": "leoleoleo212$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 160,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1213,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 12,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 1213,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 121,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 1221,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 2
+    },
+    {
+      "username": "leonche.markoski@gmail.com",
+      "password": "leoleoleo212$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1222,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 121,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 1222,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 1220,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 1220,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 3
+    },
+    {
+      "username": "leoleo@gfeds.com",
+      "password": "loewer2$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1222,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1221,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 222,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 12323,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 123,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 12213,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 4
+    },
+    {
+      "username": "wewe.co@fw.co",
+      "password": "wqqr#44W",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1212,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 12,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 5
+    },
+    {
+      "username": "heyhey@gmail.com",
+      "password": "ererererw$%",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1213,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 12,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 12,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 231213,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 231213,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 2312,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 6
+    },
+    {
+      "username": "leoleo@wfw.co",
+      "password": "eqeqeq#dwq",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1000,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 15000,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 5000,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 2500,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 7
+    },
+    {
+      "username": "LEOO@GMAIL.COM",
+      "password": "WRRWRWR$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1200,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 300,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 2500,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 8
+    },
+    {
+      "username": "leoleo@wd.com",
+      "password": "wedfwdwdw$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1200,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 300,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 2000,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "income",
+          "expected_amount": 200,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 9
+    },
+    {
+      "username": "inesnaneska@gmail.com",
+      "password": "wwwrwrwwe%",
+      "expenses": [
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 100,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 300,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 100,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 10
+    },
+    {
+      "username": "leonardo@gmail.co",
+      "password": "leoleoleo$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1500,
+          "current_amount": 150,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 200,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 2000,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 1200,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 200,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 11
+    },
+    {
+      "username": "aleksandar@gmail.com",
+      "password": "aceaceace$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 121,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 21,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 121,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 12
+    },
+    {
+      "username": "leoleo@rwr.com",
+      "password": "weewwewe$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1233,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 332,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 322,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 2312,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 23,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 213,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 13
+    },
+    {
+      "username": "hey@ged.co",
+      "password": "wqeqeq#$",
+      "expenses": [
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": true
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 2112,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": true
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 22,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 1222,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 2212,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 2121,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 14
+    },
+    {
+      "username": "effew@fwfw.co",
+      "password": "wqerqeqe$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 222,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 222,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 2222,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 231,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 2132,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 2133,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 15
+    },
+    {
+      "username": "fqwfw@wf.coqs",
+      "password": "qeqeqe#$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 2112,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 1221,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 16
+    },
+    {
+      "username": "leonardo.markoskDy@gmail.com",
+      "password": "LEOLEOL12$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 222,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 222,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "income",
+          "expected_amount": 2122,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "income",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "income",
+          "expected_amount": 122,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 17
+    },
+    {
+      "username": "www@d.com",
+      "password": "wfrwrwrwr$qw",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 2131,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1211,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 2122,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 2100,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 2200,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 2300,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 18
+    },
+    {
+      "username": "LOLOLOL@WD.CO",
+      "password": "QERQEQE$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1100,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1200,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 1300,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 2100,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": false
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 2200,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 2300,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": true
+        }
+      ],
+      "entries": [],
+      "id": 19
+    },
+    {
+      "username": "hiitsalji@gmail.com",
+      "password": "leoleoleo212$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 2500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 2100,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 2500,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 3200,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 20
+    },
+    {
+      "username": "leoleoleo212@gmail.com",
+      "password": "leoleoleo212$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 100,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 21
+    },
+    {
+      "username": "leoleoleo212@gm.com",
+      "password": "e2e2e2$q",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 2000,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 22
+    },
+    {
+      "username": "leonche111@gmail.com",
+      "password": "e2wewrw#$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 600,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 200,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 2000,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 100,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 23
+    },
+    {
+      "username": "leoleo@gmail.com",
+      "password": "wewewew$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 199,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 1212,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 24
+    },
+    {
+      "username": "leonardo@gmail.com",
+      "password": "leoloeloe212$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1000,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 2500,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": true
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 1500,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": true
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 25
+    },
+    {
+      "username": "leo@gmail.co",
+      "password": "leoleeo212$",
+      "expenses": [
+        {
+          "id": "1667655448276",
+          "category_name": "Rent",
+          "type": "Expense",
+          "expected_amount": 1210,
+          "current_amount": 0,
+          "icon_name": "Home",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453409",
+          "category_name": "Food",
+          "type": "Expense",
+          "expected_amount": 12,
+          "current_amount": 0,
+          "icon_name": "Restaurant",
+          "is_selected": true
+        },
+        {
+          "id": "1667655453312",
+          "category_name": "Car Insurance",
+          "type": "Expense",
+          "expected_amount": 12,
+          "current_amount": 0,
+          "icon_name": "NoCrash",
+          "is_selected": true
+        },
+        {
+          "id": "1667655525010",
+          "category_name": "Health Insurance",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "HealthAndSafety",
+          "is_selected": false
+        },
+        {
+          "id": "1667655543187",
+          "category_name": "Travel Expenses",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AirportShuttle",
+          "is_selected": false
+        },
+        {
+          "id": "1667655563185",
+          "category_name": "Utility Bills",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Bolt",
+          "is_selected": false
+        },
+        {
+          "id": "1667655588029",
+          "category_name": "Childcare",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "ChildCare",
+          "is_selected": false
+        },
+        {
+          "id": "1667655622741",
+          "category_name": "Loans",
+          "type": "Expense",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "AccountBalance",
+          "is_selected": false
+        }
+      ],
+      "incomes": [
+        {
+          "id": "1667655697158",
+          "category_name": "Salary",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Payments",
+          "is_selected": true
+        },
+        {
+          "id": "1667655737535",
+          "category_name": "Business Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "Business",
+          "is_selected": false
+        },
+        {
+          "id": "1667655747352",
+          "category_name": "Rental Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MapsHomeWork",
+          "is_selected": false
+        },
+        {
+          "id": "1667655757793",
+          "category_name": "Passive Income",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "MonetizationOn",
+          "is_selected": false
+        },
+        {
+          "id": "1667655765785",
+          "category_name": "Capital Gains",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "DomainAdd",
+          "is_selected": false
+        },
+        {
+          "id": "1667655788464",
+          "category_name": "Dividend",
+          "type": "Income",
+          "expected_amount": 0,
+          "current_amount": 0,
+          "icon_name": "RequestQuote",
+          "is_selected": false
+        }
+      ],
+      "entries": [],
+      "id": 26
+    }
+  ]
+}

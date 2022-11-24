@@ -1,0 +1,12 @@
+* {
+  font-family: Roboto, sans-serif;
+}
+body {
+  margin: 0;
+}
+.MuiTab-root:not([class*="Mui-selected"]) {
+  color: white;
+}
+.MuiBackdrop-root {
+  background-color: rgba(255, 255, 255, 0.75) !important;
+}

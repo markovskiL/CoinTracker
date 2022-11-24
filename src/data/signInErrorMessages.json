@@ -1,0 +1,9 @@
+{
+  "username_taken": "Username is already taken, please Sign In or choose another username.",
+  "username_invalid": "Please enter a valid username.",
+  "password_invalid": "The password that you've entered is incorrect.",
+  "no_password": "Please enter your password.",
+  "user_not_found": "The username and password you entered aren't connected to an account. Don't have an account yet ? Sign Up.",
+  "too_many_attempts": "Too many failed attempts, please try again later.",
+  "connection_lost": "Error occured. Please check your internet connection and try again."
+}
